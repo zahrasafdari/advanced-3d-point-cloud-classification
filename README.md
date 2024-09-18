@@ -1,4 +1,4 @@
-# Advanced 3D Point Cloud Classification
+# PointCloudX: Precision Classification Redefined
 
 This project enhances 3D point cloud classification by applying advanced data augmentation techniques and refining model architectures.
 
